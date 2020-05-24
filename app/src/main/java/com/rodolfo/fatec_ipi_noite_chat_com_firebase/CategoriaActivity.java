@@ -32,7 +32,4 @@ public class CategoriaActivity extends AppCompatActivity {
     public void selecionaEconomia(View view){
         iniciaChat("economia");
     }
-
-
-
 }
