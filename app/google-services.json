@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538060395068",
+    "firebase_url": "https://chatcomfirebase-fd7cb.firebaseio.com",
+    "project_id": "chatcomfirebase-fd7cb",
+    "storage_bucket": "chatcomfirebase-fd7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538060395068:android:ccfd4f758dce43e4dc6939",
+        "android_client_info": {
+          "package_name": "com.rodolfo.fatec_ipi_noite_chat_com_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538060395068-0o4ictmvhl07tt7m98hofqupg622f7ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjM7k0fHpq_60Zfwvfi4v0KPElVUNRMI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538060395068-0o4ictmvhl07tt7m98hofqupg622f7ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

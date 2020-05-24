@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat com Firebase - FATEC</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="name">Em %s, %s diz:</string>
+    <string name="mensagem">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite sua mensagem</string>
+    <string name="cadastro_sucesso">Cadastro realizado com sucesso!</string>
+    <string name="cadastro_falha">Falha de cadastro!</string>
+    <string name="cinema">cinema</string>
+</resources>
